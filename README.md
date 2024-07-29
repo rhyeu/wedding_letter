@@ -1,2 +1,2 @@
-# chaeeun-seungwoo.github.io
-채은이와 승우의 모바일청첩장 입니다.
+# wedding_letter.github.io
+모바일청첩장 테스트 입니다.
